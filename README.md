@@ -27,7 +27,5 @@ I am deeply interested in **Machine Learning and Data Science**. Currently, I'm 
 ![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### 📫 How to reach me:
-- **LinkedIn:** [Murat Eren Furfuru](www.linkedin.com/in/
-murat-eren-furfuru-57a7a339a
-)
+- **LinkedIn:** (www.linkedin.com/in/murat-eren-furfuru-57a7a339a)
 *“Developing future-proof solutions at the intersection of Finance and Technology.”*
